@@ -68,6 +68,26 @@ You will use semantic HTML to create the full page, the page will have the follo
 5. Product Carousel 
 	- Title 
 		- ("New Arrivals")
-		- 
-	- 
+		- Navigation dots to slide the products(...)
+	- Product cards
+		- product-card-1
+			- Elements
+				- Bagdges (New/not)
+				- add to wish list
+				- button hover (Add to cart)
+				- image placeholder (product image)
+			- Content
+				- Rating/stars
+				- text of product description
+				- Price
+		- product-card-2
+			- .....
+		- product-card-3
+			- ......
+		- product-card-4
+		- product-card-5
+		- product-card-6
+
+6. 
+
 
