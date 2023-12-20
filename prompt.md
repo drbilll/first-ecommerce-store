@@ -29,3 +29,45 @@ You will use semantic HTML to create the full page, the page will have the follo
 - An Instagram newsfeed
 - A Newsletter
 - Footer
+
+
+===========================================
+1. Notification bar
+	- X-icon: close icon on the right corner
+	- Content
+		- icon + text (30% off storewide-limitted time!)
+		- Linked button (Shop Now ->)
+	
+2. Navigation bar
+	- Store logo
+	- Navigation menu bar (link)
+		- Home
+		- Shop
+		- Product
+		- Contact us
+	- Icons (Link)
+		- search
+		- user
+		- shopping cart
+
+3. Hero Section
+	- Image placeholder
+		- Image
+	- Content
+		- text
+		- button ("Shopping now")
+
+4. Brands Logos (placed in a single row)
+	- Logo-1
+	- Logo-2
+	- Logo-3
+	- Logo-4
+	- Logo-5
+	- Logo-6
+
+5. Product Carousel 
+	- Title 
+		- ("New Arrivals")
+		- 
+	- 
+
